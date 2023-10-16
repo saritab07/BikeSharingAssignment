@@ -52,7 +52,7 @@ Python
 
 
 ## Contact
-Created by [@saritab07] - feel free to contact me!
+Created by [Sarita Behera](@saritab07) - feel free to contact me!
 
 
 <!-- Optional -->
