@@ -1,5 +1,4 @@
-# Project Name
-> Multiple linear regression model for the prediction of demand for shared bikes
+# Multiple linear regression model for the prediction of demand for shared bikes
 
 
 ## Table of Contents
